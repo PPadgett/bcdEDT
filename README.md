@@ -7,5 +7,5 @@ bcdedit /set hypervisorlaunchtype off
 
 Trun On Hyper-V
 ```batch
-bcdedit /set hypervisorlaunchtype on
+bcdedit /set hypervisorlaunchtype auto
 ```
