@@ -1,4 +1,4 @@
-#Switch Between Hyper-V and Virtual Box
+#Switch Between Hyper-V and Other Hypvervisor (Virtual Box)
 
 Turn Off Hyper-V:
 ```batch
